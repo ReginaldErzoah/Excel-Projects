@@ -1,4 +1,5 @@
-#XCEL PROJECTS
+#EXCEL PROJECTS
+
 These are Data Analytics Projects executed in Excel. The Excel Workbooks in this Repository contains the Analysis Summary, Dashboard & Wprking Data.
 
 ## 1. Bike Sales Project 
