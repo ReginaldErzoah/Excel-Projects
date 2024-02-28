@@ -27,3 +27,13 @@ The Secondary KPIs: Total Casualties with Each Vehicle Type, Monthly Trend in 20
 The data suggests a decrease in casualties from 2021 to 2022, but monthly variations need attention. Cars were the major contributors to casualties, and efforts should focus on improving safety in urban areas and on single carriageways.
 Raw Data Source: Kaggle.
 
+### 4. Mall Customer Sales Project:
+This is a customer sales analysis for selected malls in Istabul Turkey.
+Raw data was carefully cleaned and transformed in Microsoft Excel. Charts were created to get a better understanding for the data correlation and trends. Dashboard (in project file) was created. Slicers were created to filter the data based on year, gender and shopping mall.
+The Primary KPIs: Total Revenue & Quantity Sold.
+Secondary KPIs: Revenue per shopping mall, Revenue per gender, Revenue per payment method, Revenue per category, Revenue per year, Sales distribution & Purchases per age group.
+It was found after analysis that; The Mall of Istanbul is the top-performing mall in terms of revenue, Clothing is the most popular category, with young adults being a significant target demographic, Cash is the preferred payment method & There is a higher contribution to revenue from female customers.
+Recommendations included; focus marketing efforts on the most profitable categories, consider targeted promotions for young adults, optimize payment processes to accommodate cash transactions, explore strategies to increase male customer engagement.
+
+
+
