@@ -28,7 +28,7 @@ The data suggests a decrease in casualties from 2021 to 2022, but monthly variat
 Raw Data Source: Kaggle.
 
 ### 4. Mall Customer Sales Project:
-This is a customer sales analysis for selected malls in Istabul Turkey.
+This is a customer sales analysis for selected malls in Istabul,Turkey.
 Raw data was carefully cleaned and transformed in Microsoft Excel. Charts were created to get a better understanding for the data correlation and trends. Dashboard (in project file) was created. Slicers were created to filter the data based on year, gender and shopping mall.
 The Primary KPIs: Total Revenue & Quantity Sold.
 Secondary KPIs: Revenue per shopping mall, Revenue per gender, Revenue per payment method, Revenue per category, Revenue per year, Sales distribution & Purchases per age group.
